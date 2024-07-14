@@ -5,7 +5,7 @@ Internship Projects
 
 📄 Task 1 - "Landing Page"
 
-This project aims to create a captivating and user-friendly landing page using HTML and CSS. In this project, I created " Online Tea Shoping" website.
+This project aims to create a user-friendly landing page using HTML and CSS. In this project, I created " Online Tea Shoping" website.
 
 📁 Task 2 - "Portfolio Website"
 
